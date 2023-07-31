@@ -1,2 +1,2 @@
 # JavaCourseWork
-Car Game using swing and network programming
+Java Client-Server Car Game using swing and network programming
